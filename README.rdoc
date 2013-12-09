@@ -7,18 +7,11 @@ Right now,
   - answer a question
   - user can view questions and answers (logged in or not)
   - user can log out (clear session)
-  - 
+  - user can vote on questions 
+  
+  
+Contains Unit and controller tests with RSPEC
 
-Stuff this needs:
-
-  - MORE TESTING (integration, controllers)
-  - moving code in the controller to helpers (sessions_helper)
-  - add more functionality to navbar 
-  - adding a authors to the questions viewing (showing who posted the question)
-  - if you want to, flesh out profile page. (add users questions and answers to questions)
-  - add edit and delete question and answers for users own content
-  - add voting?
-  -good luck
 
 
 

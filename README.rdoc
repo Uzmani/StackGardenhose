@@ -1,4 +1,5 @@
 ==Readme
+This is our (Rhonda, George, Richie, me) stack overflow clone project 
 
 Right now,
   - user can create an account 
